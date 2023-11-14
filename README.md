@@ -16,7 +16,7 @@
   python3.x spacemenu.py
 ```
   ## Retorno:
-  - Sucesso - Type Int - Número de pessoas segundo o último json disponível no site.
+  - Sucesso - Type Int - número de pessoas atualmente no espaço.
   - Sucesso - Type String - Posição de Latitude e Longitude da ISS.
   - Falha - Retorno do menu.
 
